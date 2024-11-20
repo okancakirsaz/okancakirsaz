@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on Haydi Gelsin & Haydi Ekspres<br>🌱 I’m currently learning data analysis and system design<br><br>📝 I regularly write articles on https://medium.com/@ocakirsaz<br><br>💬 Ask me about flutter, react, nestjs, vanillajs<br><br>📫 How to reach me Personal: ocakirsaz@gmail.com, Business: okancakirsaz@haydiekspres.com.tr
+🔭 I’m currently working on Haydi Gelsin & Haydi Ekspres<br>🌱 I’m currently learning data analysis and system design<br><br>📝 I regularly write articles on https://medium.com/@ocakirsaz<br><br>💬 Ask me about flutter, react, nestjs, vanillajs<br><br>📫 For contact: ocakirsaz@gmail.com
 
 
 ## 🌐 Socials:
